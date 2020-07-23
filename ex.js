@@ -1,12 +1,5 @@
 // TODO: define addFavoriteBook(..) function
-function addFavoriteBook(bookName) {
-    if(bookName.includes('Great')) {
-        alert("do not add"); 
-    } else {
-        favoriteBooks.push(bookName);
-        alert(favoriteBooks);
-    }
-}
+
 
 // TODO: define printFavoriteBooks() function
 
