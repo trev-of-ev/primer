@@ -26,7 +26,7 @@ The code of this exercise can be executed via Node.js or in the console tab of y
 
 	- Use the \` back-tick operators for strings that need to include values in them.
 
-	- Use `console.log(..)` to print a message to the screen.
+	- Use `alert(..)` to print a message to the screen.
 
 5. Finally, `printFavoriteBooks()` should loop through the `favoriteBooks` array and print out each value.
 
